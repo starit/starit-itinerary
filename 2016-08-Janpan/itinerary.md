@@ -20,7 +20,7 @@
 - 电源转换器
 - 换洗衣服
 - 常用生活物品
-- 从(百度日本)[http://sim.jpmob.jp]买到流量sim卡，并按照(网页)[http://sim.jpmob.jp/Sybz.aspx?id=231]设置流量卡
+- 从[百度日本](http://sim.jpmob.jp)买到流量sim卡，并按照[网页](http://sim.jpmob.jp/Sybz.aspx?id=231)设置流量卡
 - 环球影城电子门票http://z.qyer.com/deal/49817/ 快速票http://z.qyer.com/deal/64717/
 - 关西JR Pass一日
 - 购买出国保险
